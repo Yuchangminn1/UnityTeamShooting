@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Enemy
+  - Player_HitBox
+  - PlayerBullet
+  - Boss
+  - EnemyBullet
+  - PBullet
+  - Monster
+  - Item
+  - MBullet
+  - Meteor
+  - DeadZone
+  - EnemyLazer
+  - effect
+  - HE_Enemy1
+  - HE_Enemy2
+  - DH_Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Bouncer
+  - Water
+  - UI
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
