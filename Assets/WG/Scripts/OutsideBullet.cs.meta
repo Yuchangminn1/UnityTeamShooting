@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 436a9681cbc58834ba12ba0a5c7aa1f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Warning: {fileID: 3630071085762622797, guid: ac9b882d226a576449d1b399cfd77a78, type: 3}
+  - Lazer_Horizon: {fileID: 738828978726296024, guid: cf40b730874476f4996d7568e5772776, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
